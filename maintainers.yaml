@@ -9,8 +9,7 @@ maintainers:
     teams:
       - name: "project-maintainers"
         members:
-          - alexl
+          - alexlarsson
           - jluebbe
           - giuseppe
-          - eriksjolund
           - cgwalters
